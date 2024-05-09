@@ -1,6 +1,8 @@
 # GNN-Ransac
 
-This repository shows how the DSAC*(https://github.com/vislearn/dsacstar) can be improved by training GNN to learn the confidences of 2D-3D correspondences. For GNNLine, follow the readme there.
+This repository shows how the DSAC*(https://github.com/vislearn/dsacstar) can be improved by training GNN to learn the confidences of 2D-3D correspondences. For further detail, please refer to our [report](https://drive.google.com/file/d/1fEJe3Ozq5F23ZH3YqNFVveSaf52ShkWY/view?usp=sharing).
+
+For GNNLine, follow the readme there.
 
 # 1 Repository Organization
  * `models/`: It contains GNN and DSAC* network code.
